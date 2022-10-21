@@ -1,0 +1,14 @@
+[
+    {
+        "name":"rover1",
+        "landing": [1, 2, "N"],
+        "plateau":[5, 5],
+        "command":"LMLMLMLMM"
+    },
+        {
+        "name":"rover2",
+        "landing": [3, 3, "E"],
+        "plateau":[5, 5],
+        "command":"MMRMMRMRRM"
+    }
+]
